@@ -2,6 +2,7 @@
 Implementing deep learning architecture MobileNetv2 using Tensorflow on CIFAR10 dataset
 
 Dataset
+
 The CIFAR10 dataset is a classic dataset for the image classification task, which consists of 60000 32x32 RGB images in 10 classes.
 
 Implementation
